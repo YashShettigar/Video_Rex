@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1096179413732",
+    "firebase_url": "https://video-rec-90c3c.firebaseio.com",
+    "project_id": "video-rec-90c3c",
+    "storage_bucket": "video-rec-90c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096179413732:android:94a618b4fb551990e832f1",
+        "android_client_info": {
+          "package_name": "com.video_rex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096179413732-1aopnb4fu7hn8ds8ed1br30llgogc9c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt-IUZrhADNHa8_vGSLwMFeXm6mYqJY88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096179413732-1aopnb4fu7hn8ds8ed1br30llgogc9c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
